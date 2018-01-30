@@ -5,4 +5,5 @@ More targets to come.
 
 ## Why?
 
-I did it to test my [libtcc go bindings](https://github.com/sorribas/tcc)
+Just for fun! Also to test my [libtcc go bindings](https://github.com/sorribas/tcc) and build
+a proof of concept for them.
